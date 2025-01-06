@@ -1,3 +1,7 @@
+![Screenshot 2025-01-06 164026](https://github.com/user-attachments/assets/70f6450c-a374-498c-8ec2-cf10e329bc9e)
+
+
+
 # Telegram Bot for Sports Betting Site Management
 
 This repository contains a **Telegram bot** designed to manage a sports betting site. The bot allows users to perform various actions, such as creating an account, depositing funds, withdrawing funds, placing bets, and chatting with support. The bot is built using **Python** and leverages the following libraries:
